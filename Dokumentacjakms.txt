@@ -1,0 +1,29 @@
+1. Aplikacja "Kółko i Krzyżyk" jest prostą grą logiczną, w której dwóch graczy zmienia się w umieszczaniu znaków "X" i "O" na planszy 3x3. Pierwszy gracz, który ułoży trzy swoje znaki w jednej linii (pionowo, poziomo lub na skos), wygrywa grę.
+
+2. Aplikacja jest napisana w języku C#, która obejmuje elementy:
+
+- Game.xaml: Plik uruchamiający aplikacje, odpowiadający za szate graficzną.
+
+- Game.xaml.cs: Plik odpowiadający za działanie aplikacji.
+
+- Inne pliki odopowiadające za wygląd i działanie podstron.
+
+- WpfAnimatedGif: Biblioteka odpowiadająca za wyświetlanie gifów w aplikacji.
+
+3. Elementy Gry
+
+3.1 W oknie startowym wyświetlane są 2 przyciski:
+
+-Graj --- odpowiadający za włączenie gry.
+
+-Zasady --- odpowiadający za włączenie zasad gry.
+
+3.2 W ekranie końcowym widnieje 1 przycisk: 
+
+-Dokumentacja -- odpowiadający za wyświetlenie dokumentacji.
+
+4. Podsumowanie
+
+Aplikacja "Kółko i Krzyżyk" jest prostą, ale zabawną grą logiczną, 
+która łączy logikę gry z interaktywnym interfejsem graficznym.
+Dzięki modularnej strukturze kodu, jest łatwa do zrozumienia, rozszerzenia i modyfikacji.
