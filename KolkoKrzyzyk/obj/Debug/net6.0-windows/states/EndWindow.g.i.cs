@@ -60,7 +60,7 @@ namespace KolkoKrzyzyk.states {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/KolkoKrzyzyk;component/states/endwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KolkoKrzyzyk;V1.0.0.0;component/states/endwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\states\EndWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

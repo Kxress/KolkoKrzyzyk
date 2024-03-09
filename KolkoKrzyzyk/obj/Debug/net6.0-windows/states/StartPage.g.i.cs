@@ -85,7 +85,7 @@ namespace KolkoKrzyzyk.states {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/KolkoKrzyzyk;component/states/startpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KolkoKrzyzyk;V1.0.0.0;component/states/startpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\states\StartPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using KolkoKrzyzyk.states;
+using System.Windows;
 
 namespace KolkoKrzyzyk
 {
@@ -7,6 +8,11 @@ namespace KolkoKrzyzyk
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            Application.Current.Shutdown();
         }
     }
 }
