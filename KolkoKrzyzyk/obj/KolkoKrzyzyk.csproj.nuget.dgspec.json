@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3TP (lain)\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj": {}
+    "C:\\Users\\HARDPC\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3TP (lain)\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj": {
+    "C:\\Users\\HARDPC\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3TP (lain)\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj",
+        "projectUniqueName": "C:\\Users\\HARDPC\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj",
         "projectName": "KolkoKrzyzyk",
-        "projectPath": "C:\\Users\\3TP (lain)\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj",
-        "packagesPath": "C:\\Users\\3TP (lain)\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3TP (lain)\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\obj\\",
+        "projectPath": "C:\\Users\\HARDPC\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj",
+        "packagesPath": "C:\\Users\\HARDPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HARDPC\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\3TP (lain)\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HARDPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,16 +34,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "WpfAnimatedGif": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -3,12 +3,19 @@
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-      xmlns:local="clr-namespace:KolkoKrzyzyk.states"
+      xmlns:gif="http://wpfanimatedgif.codeplex.com"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="StartPage">
-
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image gif:ImageBehavior.AnimatedSource="../assets/banner.gif" x:Name="banner" VerticalAlignment="Center" Width="700" Margin="0, 25, 0, 0"/>
+        <StackPanel x:Name="buttonStackPanel" Orientation="Horizontal" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0, 0, 0, 25" >
+            <Button x:Name="btnGraj" Width="175" Height="75" FontSize="40"  Foreground="Red" Background="White" BorderBrush="Black" BorderThickness="1.5" Click="btnGraj_Click" Margin="0, 0, 100, 0">GRAJ</Button>
+            <Button x:Name="btnZasady" Width="175" Height="75" FontSize="40" Foreground="Red" FontWeight="Light" Background="White" BorderBrush="Black" BorderThickness="1.5" Click="btnZasady_Click">ZASADY</Button>
+        </StackPanel>
     </Grid>
 </Page>

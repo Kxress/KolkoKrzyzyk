@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/1eX1J/8a1WyM39TCmKpo3QXMbbjjC2k9L70H1qHlKzY6QgMH75EjtJgdgtsuHiRpbbmTQ6etoCCg4/a6ll95w==",
+  "dgSpecHash": "mJDQNba39DjXzzD7Mp9mVMMzrgXddAJVlR1DnznN1QNrmoMgFufV7TizKNEGHH1eY1IwTnr8rwd35MNRdCNC3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3TP (lain)\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\HARDPC\\source\\repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HARDPC\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,4 +1,0 @@
-Kółko i krzyżyk – gra strategiczna rozgrywana przez dwóch graczy.
-Gracze obejmują pola na przemian dążąc do objęcia trzech pól w jednej linii, przy jednoczesnym uniemożliwieniu tego samego przeciwnikowi. 
-Pole może być objęte przez jednego gracza i nie zmienia swego właściciela przez cały przebieg gry. 
-W najbardziej popularnej w Polsce wersji gra odbywa się na polu o wymiarach 3x3.

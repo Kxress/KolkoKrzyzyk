@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\3TP (lain)\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\
 KolkoKrzyzyk
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\3TP (lain)\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\App.xaml
-3565008818
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\App.xaml
+41922711924
 
-8-1346844080
-194-726793492
-MainWindow.xaml;states\Game.xaml;states\StartPage.xaml;
+92095371746
+195-1751133332
+MainWindow.xaml;states\EndWindow.xaml;states\Game.xaml;states\StartPage.xaml;
 
-True
+False
 

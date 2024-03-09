@@ -22,3 +22,32 @@ C:\Users\3TP (lain)\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-wind
 C:\Users\3TP (lain)\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\states\Game.g.cs
 C:\Users\3TP (lain)\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\MainWindow.baml
 C:\Users\3TP (lain)\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\net6.0-windows\KolkoKrzyzyk.exe
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\net6.0-windows\KolkoKrzyzyk.deps.json
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\net6.0-windows\KolkoKrzyzyk.runtimeconfig.json
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\net6.0-windows\KolkoKrzyzyk.dll
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\net6.0-windows\KolkoKrzyzyk.pdb
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.csproj.AssemblyReference.cache
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\states\EndWindow.baml
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\states\Game.baml
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\states\StartPage.baml
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\states\EndWindow.g.cs
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\states\Game.g.cs
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\states\StartPage.g.cs
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk_MarkupCompile.cache
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.g.resources
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.AssemblyInfoInputs.cache
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.AssemblyInfo.cs
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.sourcelink.json
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.csproj.CopyComplete
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.dll
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\refint\KolkoKrzyzyk.dll
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.pdb
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\KolkoKrzyzyk.genruntimeconfig.cache
+C:\Users\HARDPC\source\repos\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\net6.0-windows\ref\KolkoKrzyzyk.dll
