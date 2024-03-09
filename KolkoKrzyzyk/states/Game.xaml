@@ -57,6 +57,5 @@
         <Label x:Name="ruchInfo" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="35">
             Ruch &#x2715;
         </Label>
-        <Label x:Name="test" Grid.Row="1" Margin="400, 0, 0, 0" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
     </Grid>
 </Page>
