@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KolkoKrzyzyk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ab2988cbda3371b5dd6d805e456363c6f2bad5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd6488083d3d83a76747a0fe4a66e822819f5922")]
 [assembly: System.Reflection.AssemblyProductAttribute("KolkoKrzyzyk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KolkoKrzyzyk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
