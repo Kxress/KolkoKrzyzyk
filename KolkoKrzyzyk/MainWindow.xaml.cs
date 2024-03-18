@@ -1,5 +1,4 @@
-﻿using KolkoKrzyzyk.states;
-using System.Windows;
+﻿using System.Windows;
 
 namespace KolkoKrzyzyk
 {
