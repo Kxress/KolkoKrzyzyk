@@ -48,19 +48,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HARDPC\\.nuget\\packages\\": {}
+    "C:\\Users\\3TP (lain)\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HARDPC\\Source\\Repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj",
+      "projectUniqueName": "C:\\Users\\3TP (lain)\\Documents\\GitHub\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj",
       "projectName": "KolkoKrzyzyk",
-      "projectPath": "C:\\Users\\HARDPC\\Source\\Repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj",
-      "packagesPath": "C:\\Users\\HARDPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HARDPC\\Source\\Repos\\KolkoKrzyzyk\\KolkoKrzyzyk\\obj\\",
+      "projectPath": "C:\\Users\\3TP (lain)\\Documents\\GitHub\\KolkoKrzyzyk\\KolkoKrzyzyk\\KolkoKrzyzyk.csproj",
+      "packagesPath": "C:\\Users\\3TP (lain)\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\3TP (lain)\\Documents\\GitHub\\KolkoKrzyzyk\\KolkoKrzyzyk\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HARDPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\3TP (lain)\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -80,6 +80,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -110,7 +115,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
       }
     }
   }
